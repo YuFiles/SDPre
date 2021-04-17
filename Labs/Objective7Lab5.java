@@ -26,12 +26,13 @@ public class Objective7Lab5 {
 					break;
 				case 3:
 					System.out.println("Goodbye");
-
+					scanner.close();	
 			}
 			
 			
 			
     }
-		scanner.close();
+		
   }
 }
+
