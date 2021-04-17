@@ -27,6 +27,7 @@ public class Objective7Lab5 {
 				case 3:
 					System.out.println("Goodbye");
 					scanner.close();	
+					break;
 			}
 			
 			
