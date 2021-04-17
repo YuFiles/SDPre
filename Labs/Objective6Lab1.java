@@ -7,7 +7,6 @@ public class Objective6Lab1 {
         System.out.println("January");
         break;
 
-
       /*
       Your solution goes here
       */
